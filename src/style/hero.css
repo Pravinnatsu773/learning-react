@@ -1,0 +1,20 @@
+.hero-section{
+    /* background-color: aqua; */
+    width: 100vw;
+   text-align: center;
+background-image: url("https://4kwallpapers.com/images/wallpapers/one-punch-man-5120x2880-10091.jpg");
+background-size: 100vw;
+background-clip: border-box;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.hero-section h1{
+color: #fff;
+}
+
+
+
